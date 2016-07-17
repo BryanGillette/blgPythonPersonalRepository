@@ -1,0 +1,11 @@
+
+I'm going to create a fake python branch and then try merging it into the master list.
+I believe I have done that before with two branches in this my personal python repository that I started ages ago along with a number of other repositories that I made for testing.
+I have this alread set to spaces, which is good.  I don't want tabs.
+But the indentation is set to two, which I do not want, as I am a Python Programmer Wanna Be. So I plan on changing that here to a set of 4 spaces for my indents.
+Currently I am set for no wrap. My other choice is going to be a soft wrap.  I don't know if that is what I want.  So the jury is out on that, but in this file I do have some extra wide lines that could take advantage of soft wrapping.  We'll see how this goes and I can always change it later to a 'soft wrap.'
+Sunday July 17, 2016
+==========================================================================================================================================
+So I am NOT going to choice to commit diretly to the master branch.
+I am going to choose to create a new branch and start a 'pull request'
+==========================================================================================================================================
