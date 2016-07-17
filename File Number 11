@@ -5,3 +5,63 @@ place i a new branch
 or place in an existing branch.?
 How about a new branch.
 20160717
+
+leading hashes to make a title
+inclose in single star/underline to make italic
+enclose in double to make bold
+they can be nested
+
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+   
+leading starts to make a list
+leading numbers
+leading greater thans for a blockquote
+and in line html code as well
+perhaps in single quotes
+
+images, exclamation mark, some alternate text, and the url
+links, alternate text, url
+
+preview changes
+doesn't show how it will look marked up, it only colors the text you have added
+
+
+Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+Links
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+Blockquotes
+> We're living the future so
+> the present is our past.
+
+Inline code
+I think you should use an
+`<addr>` element here instead.
+
+20160717
