@@ -1,0 +1,29 @@
+
+So if I create a file in the master, I'll just have added one more file to my list.
+
+If I create a file in a new branch.  That new branch will have all the files that were in the master plus this new file.
+
+If I branch a branch off of this branch.  It will contain all the files in the previous branch plus what ever I add.
+
+If I start a third branch off of the master, I will have two different branches open at the same time.
+
+Now things are starting to get interesting.
+
+Let's say I start making changes in a branch off the master.
+I might continue to add files to the branch.
+I might delete files from the branch.
+Then when I am ready.  I can make a pull request to have my branch merged to the master branch.
+
+Now if all the files are independent of the files on the master branch, there should be no problem.
+
+But where it really becomes interesting is if I have made changes to an existing file in the master.
+
+What happens here, when merging.
+
+Well, my branch could overwrite the original file.  Or we reject the overwriting or perhaps the software takes a look at the text in the file
+and compares the two files.  
+I may have just added text, would might not be a problem.
+but if I have deleted text from the original manuscript, would that be a problem.
+
+I would image, changing text would need be deleting text, so would probably fit into about the same category.
+
